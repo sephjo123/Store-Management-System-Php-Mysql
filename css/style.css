@@ -1,0 +1,31 @@
+.info-position{
+    display: flex;
+    margin-left: 70px;
+    text-align: right;  
+}
+
+.info-user{
+    margin-left: 20px;
+    text-transform: uppercase; 
+    
+}
+.login-container{
+    max-width: max-content;
+    
+}
+.btn{
+    height: 50px;
+    width: 100px;
+    
+}
+.register-container{
+    margin-top: 270px;
+}
+
+.info-container,
+.home-container{
+    margin-top: 70px;
+}
+
+
+
